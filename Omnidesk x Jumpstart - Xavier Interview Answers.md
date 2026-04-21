@@ -40,7 +40,7 @@ If you're a Shopify brand in Southeast Asia and you're serious about CRM, there'
 
 # Q1. Introductions — who are you and what do you do?
 
-I'm Xavier Lee, co-founder of Jumpstart Commerce. We're a Shopify and CRM agency based in Singapore, and we've been a Klaviyo Platinum Partner since 2022. Most of our work sits in Southeast Asia — we run email, WhatsApp, and Meta for high-growth ecommerce brands across the region.
+I'm Xavier Lee, CEO of Jumpstart Commerce. We're a Shopify and CRM agency based in Singapore, and we've been a Klaviyo Platinum Partner since 2022. Most of our work sits in Southeast Asia — we run email, WhatsApp, and Meta for high-growth ecommerce brands across the region.
 
 Omnidesk has been one of our key partnerships. They're a great example of what happens when a brand takes omnichannel seriously in this part of the world.
 
