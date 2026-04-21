@@ -8,7 +8,7 @@ Prepped for on-camera interview with Klaviyo. Spoken-style, ~30–60s per answer
 ## Core anchors to hit somewhere in the interview
 
 - Jumpstart Commerce — Shopify & CRM agency, Singapore, Klaviyo **Platinum Partner since 2022**.
-- Omnidesk has been an embedded partnership for **12+ months**, with Jumpstart running email, WhatsApp, and Meta end-to-end.
+- Omnidesk has been an embedded partnership for **4+ years**, with Jumpstart running email, WhatsApp, and Meta end-to-end.
 - The headline numbers (use once, don't repeat):
   - **63x ROI on WhatsApp** in the first 5 months.
   - **10% of total revenue attributed to Klaviyo** in Q1 2026.
